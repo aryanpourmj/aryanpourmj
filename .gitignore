@@ -1,4 +1,4 @@
 desc.txt
 *.txt
 myfoolder/
-!work.txt
+work.txt
